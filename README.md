@@ -15,6 +15,9 @@ O **LetMeAsk** é um sistema de perguntas e respostas, onde o jogador pode se re
 ## API Externa: Trivia API
 O **LetMeAsk** utiliza uma API externa de Trivia para buscar as perguntas das sessões de jogo. A Trivia API fornece questões com diferentes temas e níveis de dificuldade.
 
+Para mais detalhes sobre essa API:
+https://opentdb.com/api_config.php
+
 ### Detalhes da Trivia API
 - **Endpoint**: O endpoint da Trivia API permite a seleção de perguntas filtradas por categoria e dificuldade.
 - **Formato de Resposta**: A Trivia API retorna as perguntas em formato JSON, facilitando a integração com o backend.
